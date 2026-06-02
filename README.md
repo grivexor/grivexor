@@ -12,7 +12,7 @@ I am a 9th-grade student passionate about computer,software/app/web development 
 
 ### 🛠️ The Big Project
 I am planning to learn **C++** and **C#** to develop an **all-in-one productivity app for students**. <br><br>
-> **The Mission:** To create a powerful, completely free productivity tool designed specifically for students who don't have the money for expensive software subscriptions. <br><br>
+> **The Mission:** To create a powerful, completely free all in one productivity app with built in blocker,pomodoro etc. just like [Cold Turkey Blocker](https://getcoldturkey.com/) designed specifically for students who don't have the money for expensive software subscriptions. <br><br>
 
 ---
 
