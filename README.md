@@ -22,12 +22,6 @@ I am planning to learn **C++** and **C#** to develop an **all-in-one productivit
 
 ---
 
-### 🎯 Roadmap
-1. 🟩 Learn Python Fundamentals <br>
-2. 🟨 Learn Web Development <br>
-3. 🟦 Learn C, C++ & C# for the Student Productivity App <br>
-4. 🚀 Dive focus into AI Engineering & Machine Learning afterward <br><br>
-
 *Feel free to check out my repositories and follow along on my journey!* 😊
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/1426106091514626072) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:broisback11@gmail.com) 
