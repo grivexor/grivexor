@@ -2,12 +2,6 @@
 
 I am a 9th-grade student passionate about computer,software/app/web development and on a mission to become an AI Engineer. Currently, I am learning Python and building the foundation for my future tech stack. <br><br>
 
-### 🚀 About Me
-* 📚 **Education:** 9th-grade student balancing academics and coding. <br>
-* 🐍 **Current Focus:** Deep-diving into Python to master core programming concepts. <br>
-* 🌐 **Next Step:** Learning Web Development as a passion-driven side project after finishing Python. <br>
-* 🤖 **Career Goal:** Aspiring AI Engineer. <br><br>
-
 ---
 
 ### 🛠️ The Big Project
@@ -18,7 +12,7 @@ I am planning to learn **C++** and **C#** to develop an **all-in-one productivit
 
 ### 💻 Tech & Tools
 * **Languages:** Python (Learning) | C++ & C# (Upcoming) <br>
-* **Fields of Interest:** Artificial Intelligence | Web Development | Desktop Application Development <br><br>
+* **Fields of Interest:** Artificial Intelligence | Desktop Application Development <br><br>
 
 ---
 
