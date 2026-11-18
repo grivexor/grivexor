@@ -6,8 +6,7 @@
 
 Skills:
 - ♨ Java,Pyton
-- 🎮 Game development (Godot)
-- ⌨️ Raspberry Pi
+- ⌨️ Raspberry Pi (Docker and stuff like that)
 
 Other intrests:
 - 🔢 Bytecode manipulation
